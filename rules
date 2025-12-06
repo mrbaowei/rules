@@ -3,7 +3,7 @@
 [Rule]
 DOMAIN-KEYWORD,firstrade,🇺🇸 UNITED STATES丨07,extended-matching,pre-matching
 DOMAIN-KEYWORD,tradingview,🇭🇰 Hong Kong丨07,extended-matching,pre-matching
-DOMAIN-KEYWORD,binance,🇺🇸 UNITED STATES丨07,extended-matching,pre-matching
+DOMAIN-KEYWORD,binance,🇭🇰 Hong Kong丨07,extended-matching,pre-matching
 DOMAIN-KEYWORD,google,🇸🇬 SINGAPORE丨09,extended-matching,pre-matching
 DOMAIN-KEYWORD,cloudflare,🇸🇬 SINGAPORE丨09,extended-matching,pre-matching
 DOMAIN-KEYWORD,google,🇸🇬 SINGAPORE丨09,extended-matching,pre-matching
