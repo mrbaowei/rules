@@ -5,7 +5,6 @@ DOMAIN-KEYWORD,firstrade,🇺🇸 UNITED STATES丨07,extended-matching,pre-match
 DOMAIN-KEYWORD,tradingview,🇭🇰 Hong Kong丨07,extended-matching,pre-matching
 DOMAIN-KEYWORD,binance,🇸🇬 SINGAPORE丨09,extended-matching,pre-matching
 DOMAIN-KEYWORD,asterdex,🇸🇬 SINGAPORE丨09,extended-matching,pre-matching
-DOMAIN-KEYWORD,google,🇸🇬 SINGAPORE丨09,extended-matching,pre-matching
 DOMAIN-KEYWORD,cloudflare,🇸🇬 SINGAPORE丨09,extended-matching,pre-matching
-DOMAIN-KEYWORD,google,🇸🇬 SINGAPORE丨09,extended-matching,pre-matching
+DOMAIN-KEYWORD,google,Singapore,extended-matching,pre-matching
 DOMAIN-SUFFIX,speiyou.com,DIRECT,extended-matching,pre-matching
