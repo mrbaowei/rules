@@ -1,7 +1,7 @@
 #!name=Rules
 #!desc=Description Here
 [Rule]
-DOMAIN-KEYWORD,firstrade,🇺🇸 UNITED STATES丨07,extended-matching,pre-matching
+DOMAIN-KEYWORD,firstrade,UnitedStates,extended-matching,pre-matching
 DOMAIN-KEYWORD,tradingview,HongKong,extended-matching,pre-matching
 DOMAIN-KEYWORD,binance,Singapore,extended-matching,pre-matching
 DOMAIN-KEYWORD,asterdex,Singapore,extended-matching,pre-matching
