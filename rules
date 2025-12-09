@@ -1,10 +1,10 @@
 #!name=Rules
 #!desc=Description Here
 [Rule]
-DOMAIN-KEYWORD,firstrade,UnitedStates,extended-matching,pre-matching
-DOMAIN-KEYWORD,tradingview,HongKong,extended-matching,pre-matching
-DOMAIN-KEYWORD,binance,Singapore,extended-matching,pre-matching
-DOMAIN-KEYWORD,asterdex,Singapore,extended-matching,pre-matching
+DOMAIN-KEYWORD,firstrade,USA,extended-matching,pre-matching
+DOMAIN-KEYWORD,tradingview,HK,extended-matching,pre-matching
+DOMAIN-KEYWORD,binance,SG,extended-matching,pre-matching
+DOMAIN-KEYWORD,asterdex,SG,extended-matching,pre-matching
 DOMAIN-KEYWORD,cloudflare,NOT_CN_HA,extended-matching,pre-matching
 DOMAIN-KEYWORD,google,NOT_CN_HA,extended-matching,pre-matching
 DOMAIN-SUFFIX,speiyou.com,DIRECT,extended-matching,pre-matching
