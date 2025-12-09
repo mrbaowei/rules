@@ -3,6 +3,7 @@
 [Rule]
 DOMAIN-KEYWORD,firstrade,USA,extended-matching,pre-matching
 DOMAIN-KEYWORD,tradingview,HK,extended-matching,pre-matching
+DOMAIN-KEYWORD,wise,HK,extended-matching,pre-matching
 DOMAIN-KEYWORD,binance,SG,extended-matching,pre-matching
 DOMAIN-KEYWORD,asterdex,SG,extended-matching,pre-matching
 DOMAIN-KEYWORD,cloudflare,NOT_CN_HA,extended-matching,pre-matching
