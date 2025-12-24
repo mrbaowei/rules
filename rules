@@ -14,4 +14,5 @@ DOMAIN-KEYWORD,youtube,NOT_CN_HA,extended-matching,pre-matching
 DOMAIN-SUFFIX,scribd.com,NOT_CN_HA,extended-matching,pre-matching
 DOMAIN-SUFFIX,scribdassets.com,NOT_CN_HA,extended-matching,pre-matching
 DOMAIN-KEYWORD,okx,HK,extended-matching,pre-matching
+DOMAIN-KEYWORD,ip.sb,PROXY,extended-matching,pre-matching
 DOMAIN-SUFFIX,speiyou.com,DIRECT,extended-matching,pre-matching
