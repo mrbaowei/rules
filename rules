@@ -1,8 +1,8 @@
 #!name=Rules
 #!desc=Description Here
 [Rule]
-DOMAIN-KEYWORD,firstrade,USA,extended-matching,pre-matching
-DOMAIN-KEYWORD,tradingview,NOT_CN_HA,extended-matching,pre-matching
+DOMAIN-KEYWORD,firstrade,HK,extended-matching,pre-matching
+DOMAIN-KEYWORD,tradingview,HK,extended-matching,pre-matching
 DOMAIN-KEYWORD,wise,HK,extended-matching,pre-matching
 DOMAIN-KEYWORD,dropbox,NOT_CN_HA,extended-matching,pre-matching
 DOMAIN-KEYWORD,binance,SG,extended-matching,pre-matching
@@ -14,7 +14,7 @@ DOMAIN-SUFFIX,scribd.com,NOT_CN_HA,extended-matching,pre-matching
 DOMAIN-SUFFIX,scribdassets.com,NOT_CN_HA,extended-matching,pre-matching
 DOMAIN-KEYWORD,okx,HK,extended-matching,pre-matching
 DOMAIN-KEYWORD,ip.sb,PROXY,extended-matching,pre-matching
-DOMAIN-KEYWORD,microsoft, NOT_CN_HA,extended-matching,pre-matching
-DOMAIN-KEYWORD,xbox, NOT_CN_HA,extended-matching,pre-matching
+DOMAIN-KEYWORD,microsoft, HK,extended-matching,pre-matching
+DOMAIN-KEYWORD,xbox,HK,extended-matching,pre-matching
 DOMAIN-KEYWORD,ssrdog, NOT_CN_HA,extended-matching,pre-matching
 DOMAIN-KEYWORD,speed.cloudflare.com,PROXY,extended-matching,pre-matching
