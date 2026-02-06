@@ -17,4 +17,5 @@ DOMAIN-KEYWORD,ip.sb,PROXY,extended-matching,pre-matching
 DOMAIN-KEYWORD,microsoft, HK,extended-matching,pre-matching
 DOMAIN-KEYWORD,xbox,HK,extended-matching,pre-matching
 DOMAIN-KEYWORD,ssrdog, NOT_CN_HA,extended-matching,pre-matching
+DOMAIN-KEYWORD,crisp.chat,NOT_CN_HA,extended-matching,pre-matching
 DOMAIN-KEYWORD,speed.cloudflare.com,PROXY,extended-matching,pre-matching
